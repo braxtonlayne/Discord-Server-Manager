@@ -71,7 +71,7 @@ Adapt the bot to your specific needs:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Discord-Server-Manager.git
+   git clone https://github.com/braxtonlayne/Discord-Server-Manager.git
    cd Discord-Server-Manager
    ```
 
